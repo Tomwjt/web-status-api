@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS
+ SITE_STATUS (
+     id int AUTO_INCREMENT PRIMARY KEY,
+     status varchar(255)
+);
